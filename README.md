@@ -1,5 +1,5 @@
 # web-crawler
-This repository contains code implementation for simple Web Crawler demonstration as part of the assignment.
+This repository contains code implementation for simple Web Crawler demonstration.
 
 Jsoup java library is used for this purpose.Following Jsoup dependency snippet is added to pom.xml.
   
